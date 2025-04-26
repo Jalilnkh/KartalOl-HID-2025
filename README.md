@@ -45,6 +45,9 @@ Good luck!
 
 ---
 
+## Citation
+
+```bibtex
 @misc{KartalOl-HID-2025,
   author       = {Jalil Nourmohammadi Khiarak and Taher Akbari Saeed and Ali Kianfar and Mahsa Nasehi and Mobina Pashazadeh Panahi},
   title        = {KartalOl-HID-2025: A Simple Model for the 6th International Competition on Human Identification at a Distance (HID 2025)},
