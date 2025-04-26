@@ -44,6 +44,7 @@ Feel free to clone the repo, enhance the model, and use it as a starting point f
 Good luck!
 
 ---
+
 @misc{KartalOl-HID-2025,
   author       = {Jalil Nourmohammadi Khiarak, Taher Akbari Saeed, Ali Kianfar, Mahsa Nasehi, Mobina Pashazadeh Panahi},
   title        = {KartalOl-HID-2025: A Simple Model for the 6th International Competition on Human Identification at a Distance (HID 2025)},
