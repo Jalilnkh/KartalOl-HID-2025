@@ -46,10 +46,10 @@ Good luck!
 ---
 
 @misc{KartalOl-HID-2025,
-  author       = {Jalil Nourmohammadi Khiarak, Taher Akbari Saeed, Ali Kianfar, Mahsa Nasehi, Mobina Pashazadeh Panahi},
+  author       = {Jalil Nourmohammadi Khiarak and Taher Akbari Saeed and Ali Kianfar and Mahsa Nasehi and Mobina Pashazadeh Panahi},
   title        = {KartalOl-HID-2025: A Simple Model for the 6th International Competition on Human Identification at a Distance (HID 2025)},
   year         = {2025},
-  howpublished = {\url{[https://github.com/Jalilnkh/KartalOl-HID-2025](https://github.com/Jalilnkh/KartalOl-HID-2025)}},
+  howpublished = {\url{https://github.com/Jalilnkh/KartalOl-HID-2025}},
   note         = {Preliminary work shared for the HID 2025 competition.}
 }
 
