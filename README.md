@@ -8,6 +8,10 @@ So in this repo we have a basic model regarding HID if you have a good resource 
 you need to have first dataset which are some of them publicly avialable. 
 Then simply add path address of dataset and
 
-python 
+python baseline_train.py
+
+After running this code you will need to run :
+
+
 
 The 6th International Competition on Human Identification at a Distance 2025 (HID 2025) Web site: https://codalab.lisn.upsaclay.fr/competitions/21845#learn_the_details
