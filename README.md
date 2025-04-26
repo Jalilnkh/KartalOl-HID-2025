@@ -1,17 +1,36 @@
 # KartalOl-HID-2025
 
-We have tried to work on HID competition 2025 however due to the lack of resources we could not continue to work on more ideas and develop a better model.
-So in this repo we have a basic model regarding HID if you have a good resource to run and I will share guidance for you about how to run this code and also prepare for the competition evaluation.
+This repository contains our preliminary work for the **6th International Competition on Human Identification at a Distance (HID 2025)**. Due to limited resources, we were unable to continue developing more advanced ideas or a better-performing model.
 
-### How to run model
+However, we are sharing a basic model related to HID, along with instructions on how to set up and run it. If you have access to better resources, you can build upon our work — we will also provide guidance to help you prepare for the competition evaluation.
 
-you need to have first dataset which are some of them publicly avialable. 
-Then simply add path address of dataset and
+Competition Website: [HID 2025 - CodaLab](https://codalab.lisn.upsaclay.fr/competitions/21845#learn_the_details)
 
-python baseline_train.py
+---
 
-After running this code you will need to run :
+## How to Run the Model
 
+1. **Prepare the Dataset**  
+   You will need to gather the necessary datasets, some of which are publicly available.
 
+2. **Set the Dataset Path**  
+   Update the dataset path in your local environment accordingly.
 
-The 6th International Competition on Human Identification at a Distance 2025 (HID 2025) Web site: https://codalab.lisn.upsaclay.fr/competitions/21845#learn_the_details
+3. **Training**  
+   Run the following command to train the baseline model:
+
+   ```bash
+   python baseline_train.py
+   ```
+
+4. **Inference**  
+   After training, run the inference script:
+
+   ```bash
+   python baseline_inferense.py
+   ```
+
+---
+
+Feel free to clone the repo, enhance the model, and use it as a starting point for the competition.  
+Good luck!
