@@ -28,14 +28,14 @@ Competition Website: [HID 2025 - CodaLab](https://codalab.lisn.upsaclay.fr/compe
    Run the following command to train the baseline model:
 
    ```bash
-   python baseline_train.py
+   python script/baseline_train.py
    ```
 
 4. **Inference**  
    After training, run the inference script:
 
    ```bash
-   python baseline_inferense.py
+   python script/baseline_inferense.py
    ```
 
 ---
