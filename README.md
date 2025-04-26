@@ -10,13 +10,21 @@ Competition Website: [HID 2025 - CodaLab](https://codalab.lisn.upsaclay.fr/compe
 
 ## How to Run the Model
 
-1. **Prepare the Dataset**  
+1. **Needed package to install**
+   ```torch
+   torchvision
+   numpy
+   PIL
+   sklearn
+   ```
+
+2. **Prepare the Dataset**  
    You will need to gather the necessary datasets, some of which are publicly available.
 
-2. **Set the Dataset Path**  
+3. **Set the Dataset Path**  
    Update the dataset path in your local environment accordingly.
 
-3. **Training**  
+4. **Training**  
    Run the following command to train the baseline model:
 
    ```bash
